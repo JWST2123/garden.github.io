@@ -3,7 +3,7 @@ title: GARDEN
 feature_text: |
   ## GARDEN
   Galaxies at All Redshifts Deciphered and Explained with the NIRSpec MSA
-feature_image: "https://stsci.box.com/s/2io3igwz3zxraf1y4mi45p22nqjq6h76"
+feature_image: {% include figure.html image="/assets/logos/IMG_0234.jpg" caption="GARDEN logo" %}
 excerpt: 
 ---
 
