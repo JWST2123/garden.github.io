@@ -122,9 +122,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Code of Conduct
-  url: /codeofconduct/
+  url: garden.github.io/codeofconduct/
 - title: Team
-  url: /team/
+  url: garden.github.io/team/
 - title: Search
   url: /search/
 
