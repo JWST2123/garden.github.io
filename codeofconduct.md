@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
-indexing: false
-sitemap: false
+indexing: true
+sitemap: true
 ---
 
-Coming soon
+Code of conduct goes here.
