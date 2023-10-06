@@ -7,7 +7,7 @@ feature_image: "garden.github.io/assets/logos/IMG_0234.jpg"
 excerpt:
 ---
 
-![Garden Logo](garden.github.io/assets/logos/GARDEN_sticker.jpg)
+![Garden Logo](assets/logos/GARDEN_sticker.jpg)
 
 Galaxies at All Redshifts Deciphered and Explained with the NIRSpec MSA
 
