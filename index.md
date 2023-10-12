@@ -6,9 +6,7 @@ feature_image: "https://stsci.box.com/shared/static/tsbc7enguwizwp1rnjunmwf0gr2i
 excerpt:
 ---
 
-{% include figure.html image="https://stsci.box.com/shared/static/2io3igwz3zxraf1y4mi45p22nqjq6h76.jpg" alt="GARDEN logo with HUDF" width="200" height="200" %}
-
-{% include figure.html image="https://stsci.box.com/shared/static/7ap9babyymb95jfvl2jbketw8von1p0n.jpg" alt="GARDEN logo with flowers" width="200" height="200" %}
+GARDEN is a Cycle 1 JWST program (program ID 2123) that uses the NIRSpec Micro Shutter Assembly (MSA) in "slitlet stepping" mode. Etc...
 
 {% include button.html text="Repository" icon="github" link="https://github.com/JWST2123/JWST2123" color="#0366d6" %}
 
