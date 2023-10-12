@@ -7,10 +7,9 @@ feature_image: "/assets/logos/GARDEN_sticker.jpg"
 excerpt:
 ---
 
-[comment]: # (![Garden Logo](/assets/logos/GARDEN_sticker.jpg))
-
 <img src="/assets/logos/GARDEN_sticker.jpg"
      alt="GARDEN logo with flowers"
+     width="30"
      style="float: left; margin-right: 10px;" />
 
 Galaxies at All Redshifts Deciphered and Explained with the NIRSpec MSA
