@@ -2,11 +2,13 @@
 title: GARDEN
 feature_text: |
   ## Galaxies at All Redshifts Deciphered and Explained with the NIRSpec MSA
-feature_image: "https://github.com/JWST2123/garden.github.io/blob/main/assets/logos/GARDEN_sticker.jpg"
+feature_image: "https://stsci.box.com/shared/static/2io3igwz3zxraf1y4mi45p22nqjq6h76.jpg"
 excerpt:
 ---
 
-{% include figure.html image="https://stsci.box.com/shared/static/2io3igwz3zxraf1y4mi45p22nqjq6h76.jpg" alt="GARDEN logo with flowers" width="200" height="200" %}
+{% include figure.html image="https://stsci.box.com/shared/static/2io3igwz3zxraf1y4mi45p22nqjq6h76.jpg" alt="GARDEN logo with HUDF" width="200" height="200" %}
+
+{% include figure.html image="https://stsci.box.com/shared/static/7ap9babyymb95jfvl2jbketw8von1p0n.jpg" alt="GARDEN logo with flowers" width="200" height="200" %}
 
 {% include button.html text="Repository" icon="github" link="https://github.com/JWST2123/JWST2123" color="#0366d6" %}
 
