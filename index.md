@@ -6,7 +6,7 @@ feature_image: "https://github.com/JWST2123/garden.github.io/blob/main/assets/lo
 excerpt:
 ---
 
-{% include figure.html image="https://stsci.box.com/s/2io3igwz3zxraf1y4mi45p22nqjq6h76" alt="GARDEN logo with flowers" width="200" height="200" %}
+{% include figure.html image="https://stsci.box.com/shared/static/2io3igwz3zxraf1y4mi45p22nqjq6h76.jpg" alt="GARDEN logo with flowers" width="200" height="200" %}
 
 {% include button.html text="Repository" icon="github" link="https://github.com/JWST2123/JWST2123" color="#0366d6" %}
 
