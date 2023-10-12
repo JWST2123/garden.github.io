@@ -7,7 +7,7 @@ feature_image: "https://github.com/JWST2123/garden.github.io/blob/main/assets/lo
 excerpt:
 ---
 
-<img src="/assets/logos/GARDEN_sticker.jpg"
+<img src="https://github.com/JWST2123/garden.github.io/blob/main/assets/logos/GARDEN_sticker.jpg"
      alt="GARDEN logo with flowers"
      width="30"
      style="float: left; margin-right: 10px;" />
