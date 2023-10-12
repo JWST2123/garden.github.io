@@ -1,8 +1,8 @@
 ---
 title: GARDEN, Cycle 1 JWST Program
 feature_text: |
-  ## GARDEN
-  Galaxies at All Redshifts Deciphered and Explained with the NIRSpec MSA
+  # GARDEN
+  ## Galaxies at All Redshifts Deciphered and Explained with the NIRSpec MSA
 feature_image: "https://github.com/JWST2123/garden.github.io/blob/main/assets/logos/GARDEN_sticker.jpg"
 excerpt:
 ---
