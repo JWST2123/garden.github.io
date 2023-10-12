@@ -1,5 +1,5 @@
 ---
-title: Code of Conduct
+title: Code of Conduct and Publication Policy
 indexing: true
 sitemap: true
 ---
