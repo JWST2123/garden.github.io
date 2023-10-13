@@ -10,5 +10,5 @@ GARDEN is a Cycle 1 JWST program (program ID 2123) that uses the NIRSpec Micro S
 
 _Logos by Celia Mulcahey_
 
-{% include button.html text="Internal" link="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNUNrL2ZDYy8vSWN0QlFWTHB6LzBYRDhWZmc0RVB0WWc3TkZvMjRLYWJhRTI0QmttTER4UERRYXoxdjBpTGhQRWdrdVF1OGtweG9yOXhIR0JUbXdNN3FWRWFpYU9YYXc5T0U5UEJlSCsrSFlaNUpmRnRPM1daMHdCVmswN2xKb0JaNXZEa2xJTmZtZFp3bCtGVVR6RjFnPT0iLCJoIjoiR0FSREVOIGludGVybmFsIGxpbmtzIiwicyI6IkE1Zlp2KzJSaHpvd1pYVTcwWFhjamc9PSIsImkiOiIvcnQrN1MydmNnSWVacVNkIn0=" color="#587792" %}{% include button.html text="Repository" icon="github" link="https://github.com/JWST2123/JWST2123" color="#0366d6" %}
+{% include button.html text="Internal" link="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTXhRaGJzSC9BUVBSUXRleGNQMGg2cTZCRkRtazNpQTFLb3dVNGZ6MzFtSUl3dmExMktHRXBndmhUcWxyU0gzS21kcVJpdjZLQUp5RGpEaFo2Nm5CajNMbjNIUThFV2JPMUlmWElIYWFyeVdsc1ZGVjd6dVVRMXYxQ2EwYnZxd3F1cEV5K1J0T3c1K2R6Mll3QzF0VVZnPT0iLCJzIjoibS9ZY2ZadUdCaHh5ZDVRclFFeTEzdz09IiwiaSI6ImR2aDlQcGxHYUpjeWI5cy8ifQ==" color="#587792" %}{% include button.html text="Repository" icon="github" link="https://github.com/JWST2123/JWST2123" color="#0366d6" %}
 
