@@ -77,6 +77,6 @@ In addition, during all in person and virtual meetings, they agree to abide by t
 
 ## Consequences for Violation of Collaboration Policies (i.e., this document)
 
-If behavior in violation of these Collaboration Policies occurs, members of the collaboration may report it to the Steering Committee, or via an [anonymous Google form](https://docs.google.com/spreadsheets/u/0/d/17s6qr1TmGshib4rvifwHbBHOxOxbsh_RDBWG3utP-kU/edit). The Steering Committee will investigate all reported issues to determine if a violation of the Collaboration Policies has occurred. If a member has been determined to have violated the Collaboration Policies, the Steering Committee will discuss possible consequences.
+If behavior in violation of these Collaboration Policies occurs, members of the collaboration may report it to the Steering Committee, or via an [anonymous Google form](https://forms.gle/6Tx4xp6oLQ5hzbg26). The Steering Committee will investigate all reported issues to determine if a violation of the Collaboration Policies has occurred. If a member has been determined to have violated the Collaboration Policies, the Steering Committee will discuss possible consequences.
 
 The Steering Committee will review the Collaboration Policies once a year, or as needed, and make any modifications which are deemed necessary. Any time this Collaboration Policies document is modified, the collaboration will be notified by e-mail with a link to the updated Collaboration Policies.
