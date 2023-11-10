@@ -15,9 +15,9 @@ All collaboration members are encouraged to complete inclusion, diversity, equit
 
 ## Roles and Duties
 
-Principal Investigator (PI): Susan Kassin (kassin AT stsci.edu)<br>
-Survey Manager (SM): Camilla Pacifici (cpacifici AT stsci.edu)<br>
-Steering Committee (SC) (garden_steering AT maillist.stsci.edu): PI, SM, Mia Bovill (msbovill AT umd.edu), Christopher Willmer (cnaw AT as.arizona.edu), Benjamin Weiner (bjw AT as.arizona.edu), Mauro Giavalisco (mauro AT umass.edu)
+Principal Investigator (PI): Susan Kassin<br>
+Survey Manager (SM): Camilla Pacifici<br>
+Steering Committee (SC) (garden_steering AT maillist.stsci.edu): PI, SM, Mia Bovill, Christopher Willmer, Benjamin Weiner, Mauro Giavalisco
 
 # Publication Policy
 
