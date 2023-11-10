@@ -24,10 +24,10 @@ Steering Committee (SC) (garden_steering AT maillist.stsci.edu): PI, SM, Mia Bov
 All members of the GARDEN team must acknowledge and abide by the following publication policy.  This policy will be enforced for 1 (one) year from any given data release. 
 
 * New paper ideas must be proposed via Google Slides before significant work is undertaken. Before proposing or developing a new scientific project, members should consult the slides to prevent duplication of effort. The slide for a proposal must include the following: 
-** The topic of the paper.
-** Which specific data products and/or software are needed.
-** Which members of GARDEN are involved and which external people are involved.
-** Whether the lead is a student or postdoc and whether this work forms part of a PhD thesis, Masters thesis, or a component of a PhD program.
+  * The topic of the paper.
+  * Which specific data products and/or software are needed.
+  * Which members of GARDEN are involved and which external people are involved.
+  * Whether the lead is a student or postdoc and whether this work forms part of a PhD thesis, Masters thesis, or a component of a PhD program.
 * GARDEN members can sign up to be lead or collaborator on proposed science ideas by adding their name to  the relevant Google Slide.
 * Proposed new science projects with no conflicts will be approved by default. 
 * Proposed new science projects which may conflict with an existing one will be discussed with all the members involved and the PI and/or SM. The decision of the PI and SM will be final.
